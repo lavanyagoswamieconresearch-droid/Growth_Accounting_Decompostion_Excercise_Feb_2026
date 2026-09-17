@@ -1,5 +1,5 @@
-Co-authored by: Lavanya Goswami, Matias Alejandro Gonzalez Ferreira, Megana Prabha Sendhil Kumar, Mugdha Kumaramangalam and Sharvadharshi Ketharinath
-Guided by Prof. Wouter den Haan; Class Teacher: Charlie Nourse
+Co-authored by: Lavanya Goswami, Matias Alejandro Gonzalez Ferreira, Megana Prabha Sendhil Kumar, Mugdha Kumaramangalam and Sharvadharshi Ketharinath;
+Guided by Prof. Wouter den Haan; Class Teacher: Charlie Nourse;
 Course: Macroeconomics II 2025/26
 
 **Abstract**: 
